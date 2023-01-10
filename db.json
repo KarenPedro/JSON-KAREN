@@ -2,30 +2,63 @@
     "Professores":[
         {
             "nome": "Karen",
-            "idade":18,
-            "materia": "Geografia",
+            "idade":28,
+            "materia": "Matemática",
             "id": 1
         },
         {
-            "nome": "Karen",
-            "idade":18,
+            "nome": "Jeferson",
+            "idade":25,
             "materia": "Geografia",
-            "id": 1
+            "id": 2
         },
         {
-            "nome": "Karen",
-            "idade":18,
-            "materia": "Geografia",
-            "id": 1
+            "nome": "Sara",
+            "idade":26,
+            "materia": "Português",
+            "id": 3
         },
         {
-            "nome": "Karen",
-            "idade":18,
-            "materia": "Geografia",
-            "id": 1
+            "nome": "Jonas",
+            "idade":24,
+            "materia": "Ciências",
+            "id": 4
         }
     ],
+
     "Alunos":[
-        
+        {
+            "nome": "Suellen",
+            "idade": 20,
+            "email": "suellendapenha@gmail.com",
+            "id": "aluno1"
+        },
+        {
+            "nome": "Marcelle",
+            "idade": 25,
+            "email": "marcellemedeiros@gmail.com",
+            "id": "aluno2"
+        },
+        {
+            "nome": "Jonathan",
+            "idade": 20,
+            "email": "jonathanfalcao@gmail.com",
+            "id": "aluno3"
+        },
+        {
+            "nome": "Mariana",
+            "idade": 26,
+            "email": "marianabarbosa@gmail.com",
+            "id": "aluno4"
+        }
+    ],
+
+    "Matéria": [
+        {
+            "nome": "Matemática",
+            "professora": "Karen",
+            "aulas": "segunda, quarta e sexta",
+            "id": 1
+        }
     ]
 }
