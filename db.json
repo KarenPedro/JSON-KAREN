@@ -1,10 +1,31 @@
 {
-    "LivrosRomance":[
+    "Professores":[
         {
-            "nome": "Dom Casmurro",
-            "autor": "Machado de Assis",
-            "ano": 1920,
-            "id": 2
+            "nome": "Karen",
+            "idade":18,
+            "materia": "Geografia",
+            "id": 1
+        },
+        {
+            "nome": "Karen",
+            "idade":18,
+            "materia": "Geografia",
+            "id": 1
+        },
+        {
+            "nome": "Karen",
+            "idade":18,
+            "materia": "Geografia",
+            "id": 1
+        },
+        {
+            "nome": "Karen",
+            "idade":18,
+            "materia": "Geografia",
+            "id": 1
         }
+    ],
+    "Alunos":[
+        
     ]
 }
