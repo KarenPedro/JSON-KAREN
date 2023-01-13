@@ -59,6 +59,51 @@
             "professora": "Karen",
             "aulas": "segunda, quarta e sexta",
             "id": 1
+        },
+        {
+            "nome": "Geografia",
+            "professor": "Jeferson",
+            "aulas": "terça e quinta",
+            "id": 2
+        },
+        {
+            "nome": "Português",
+            "professora": "Sara",
+            "aulas": "segunda e sexta",
+            "id": 3
+        },
+        {
+            "nome": "Ciências",
+            "professor": "Jonas",
+            "aulas": "quinta",
+            "id": 4
+        }
+    ],
+
+    "Funcionários": [
+        {
+            "nome": "Lourdes",
+            "função": "servente",
+            "área": "limpeza",
+            "id": "func1"
+        },
+        {
+            "nome": "Paulo",
+            "função": "vigilante",
+            "área": "segurança",
+            "id": "func2"
+        },
+        {
+            "nome": "Fernanda",
+            "função": "tesoureira",
+            "área": "adminitrativa",
+            "id": "func3"
+        },
+        {
+            "nome": "Jorge",
+            "função": "inspetor",
+            "área": "sala de aula",
+            "id": "func4"
         }
     ]
 }
