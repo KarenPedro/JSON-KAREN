@@ -53,7 +53,7 @@
         }
     ],
 
-    "Matéria": [
+    "Materia": [
         {
             "nome": "Matemática",
             "professora": "Karen",
@@ -80,29 +80,29 @@
         }
     ],
 
-    "Funcionários": [
+    "Funcionarios": [
         {
             "nome": "Lourdes",
-            "função": "servente",
-            "área": "limpeza",
+            "funcao": "servente",
+            "area": "limpeza",
             "id": "func1"
         },
         {
             "nome": "Paulo",
-            "função": "vigilante",
-            "área": "segurança",
+            "funcao": "vigilante",
+            "area": "segurança",
             "id": "func2"
         },
         {
             "nome": "Fernanda",
-            "função": "tesoureira",
-            "área": "adminitrativa",
+            "funcao": "tesoureira",
+            "area": "adminitrativa",
             "id": "func3"
         },
         {
             "nome": "Jorge",
-            "função": "inspetor",
-            "área": "sala de aula",
+            "funcao": "inspetor",
+            "area": "sala de aula",
             "id": "func4"
         }
     ]
